@@ -162,7 +162,7 @@ export default function App() {
             initial={{ opacity: 0, scale: 0.95, x: 20 }}
             animate={{ opacity: 1, scale: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="relative hidden lg:block"
+             className="relative block mt-12 lg:mt-0"
           >
             <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl border border-zinc-200 bg-zinc-100">
               <img 
@@ -300,7 +300,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-xs text-zinc-400 uppercase font-bold tracking-wider">Email</p>
-                  <p className="font-medium">itana.wek@example.com</p>
+                  <p className="font-medium">itanawekgari@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-4 group cursor-pointer">
@@ -309,7 +309,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-xs text-zinc-400 uppercase font-bold tracking-wider">Phone</p>
-                  <p className="font-medium">+251 9XX XXX XXX</p>
+                  <p className="font-medium">+251910233083</p>
                 </div>
               </div>
               <div className="flex items-center gap-4 group cursor-pointer">
