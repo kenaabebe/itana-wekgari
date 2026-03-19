@@ -353,7 +353,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="text-center md:text-left">
             <h3 className="font-display text-2xl font-bold mb-2">Itana Wekgari</h3>
-            <p className="text-zinc-400 text-sm">© 2026 All rights reserved.Kena Abebe.</p>
+            <p className="text-zinc-400 text-sm">© 2026 All rights reserved.Itana Wekgari.</p>
           </div>
           <div className="flex gap-6">
             <a href="#" className="text-zinc-400 hover:text-zinc-900 transition-colors"><Linkedin className="w-5 h-5" /></a>
